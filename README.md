@@ -46,9 +46,7 @@
 •	20–30 мин: стабильное плато на уровне 120% (ya.ru ~72 оп/мин, www.ru ~144 оп/мин).
 Таким образом, максимальная интенсивность достигнута и удерживается в течение последних 10 минут.
 
-<img width="521" height="668" alt="rpm_sql_ya ru" src="https://github.com/user-attachments/assets/beef5ef1-3dd9-4bcf-b159-9eb7d9415e40" />
-
-<img width="516" height="578" alt="rpm_sql_www ru" src="https://github.com/user-attachments/assets/e412a79d-06f5-424e-b5ca-8d2f92cffb3d" />
+<img width="521" height="668" alt="rpm_sql_ya ru" src="https://github.com/user-attachments/assets/beef5ef1-3dd9-4bcf-b159-9eb7d9415e40" /> <img width="516" height="578" alt="rpm_sql_www ru" src="https://github.com/user-attachments/assets/e412a79d-06f5-424e-b5ca-8d2f92cffb3d" />
 
 
 * **3.2. Время отклика (p95)**
@@ -57,9 +55,7 @@
 Разная размерность на графиках не является ошибкой, а связана с порогом переключения (1 секунда). 
 •	В отчёте мы приводим оба значения в сопоставимом виде.
 
-<img width="519" height="584" alt="95p_sql_ya ru" src="https://github.com/user-attachments/assets/c6172f18-70af-4c84-a5d4-b4e78f5b513c" />
-
-<img width="528" height="577" alt="95p_sql_www ru" src="https://github.com/user-attachments/assets/30353878-5f64-4975-ad4a-c7bb274f2a2d" />
+<img width="519" height="584" alt="95p_sql_ya ru" src="https://github.com/user-attachments/assets/c6172f18-70af-4c84-a5d4-b4e78f5b513c" /> <img width="528" height="577" alt="95p_sql_www ru" src="https://github.com/user-attachments/assets/30353878-5f64-4975-ad4a-c7bb274f2a2d" />
 
 
 
